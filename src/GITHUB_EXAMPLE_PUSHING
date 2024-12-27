@@ -1,0 +1,10 @@
+ranjitray@PC1:~/ros_ws$ git init
+Initialized empty Git repository in /home/ranjitray/ros_ws/.git/
+ranjitray@PC1:~/ros_ws$ git add .
+ranjitray@PC1:~/ros_ws$ git commit -m "first commit"
+[master (root-commit) 7d4cd7b] first commit
+ranjitray@PC1:~/ros_ws$ git branch -M main
+
+TOKEN EXAMPLE
+ranjitray@PC1:~/ros_ws$ git remote set-url origin https://ghp_PFcQ1Tr4nbeRxJzxDdhihdic2ZEFjAavR4K2sXrkQ@github.com/Gaurav-as-u-know/ouster2.git
+ranjitray@PC1:~/ros_ws$ git push -u origin main
